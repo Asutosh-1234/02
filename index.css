@@ -37,8 +37,6 @@ body {
     transform: scale(1.01);
     background-color: #2d2828;
     color: #fff;
-    height: 60%;
-    width: 60%;
 }
 .card img{
     height: 100%;
